@@ -29,8 +29,8 @@ public class Unit1 {
   */
  public static int castDoubleToInt(double value) {
      // Your code here
-     value=(int)value;
-     return value; // Placeholder return
+     
+     return (int)value; // Placeholder return
  }
 
  /**
@@ -42,10 +42,8 @@ public class Unit1 {
   */
  public static boolean isTrue(boolean value) {
      // Your code here
-     if(value){
-        return true;
-     }
-     return false; // Placeholder return
+     
+     return value; // Placeholder return
  }
 
  /**
